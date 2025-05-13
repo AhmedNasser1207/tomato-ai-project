@@ -1,0 +1,5 @@
+link the notebook
+https://www.kaggle.com/code/ahmednasser83/tomato-leaf-model-with-yolov8
+
+This model works well but have a problem that is detect any kind of leaf not only tomato leaf 
+This may be a feature but in our project we are focused on tomato only

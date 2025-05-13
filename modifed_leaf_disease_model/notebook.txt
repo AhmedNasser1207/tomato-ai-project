@@ -1,0 +1,4 @@
+link the notebook
+https://www.kaggle.com/code/ahmednasser83/yolov8-tomato-leaf
+
+In this version I tried to update the dataset with images of no_tomato leaf and make a classifier model to increase the accuracy   
